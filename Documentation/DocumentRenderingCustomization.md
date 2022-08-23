@@ -18,12 +18,12 @@ $themes: (
         background: rgb(0, 0, 139), /* very dark blue */
         text: rgb(255, 255, 255), /* white */
         link: rgb(3, 102, 214), /* deep blue */
-        horizontal-line: rgb(0, 100, 0), /* dark green */
+        horizontal-line: rgb(255, 192, 203), /* pink */
         code-block-background: rgb(246, 248, 250), /* light gray */
         inline-code-background: rgba(27, 31, 35, 0.05), /* very dark gray but with alpha, results in light gray */
         blockquote-text: rgb(106, 115, 125), /* dark gray */
         blockquote-left-bar: rgb(223, 226, 229), /* medium light gray */
-        table-border: rgb(223, 226, 229), /* medium light gray */
+        table-border: rgb(255, 192, 203), /* medium light gray */
         table-primary-background: rgb(255, 255, 255), /* white */
         table-secondary-background: rgb(246, 248, 250),  /* extremely light gray */
     ),
