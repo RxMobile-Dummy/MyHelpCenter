@@ -64,6 +64,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Peach smoothie](https://RxMobile-Dummy.github.io/MyHelpCenter/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/RxMobile-Dummy/MyHelpCenter/edit/DataSource/Sample-Smoothies/Peach.md))
 - [Plum smoothie](https://RxMobile-Dummy.github.io/MyHelpCenter/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/RxMobile-Dummy/MyHelpCenter/edit/DataSource/Sample-Smoothies/Plum.md))
 - [Red berry smoothie](https://RxMobile-Dummy.github.io/MyHelpCenter/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/RxMobile-Dummy/MyHelpCenter/edit/DataSource/Sample-Smoothies/RedBerries.md))
+- [White Tea](https://RxMobile-Dummy.github.io/MyHelpCenter/TeaFolder/WhiteTea) (tea) ([edit](https://github.com/RxMobile-Dummy/MyHelpCenter/edit/DataSource/TeaFolder/WhiteTea.md))
 
 
 ## Notes

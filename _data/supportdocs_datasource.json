@@ -117,5 +117,12 @@
         "tags": [
             "smoothies"
         ]
+    },
+    {
+        "title": "White Tea",
+        "url": "https://RxMobile-Dummy.github.io/MyHelpCenter/TeaFolder/WhiteTea",
+        "tags": [
+            "tea"
+        ]
     }
 ]
