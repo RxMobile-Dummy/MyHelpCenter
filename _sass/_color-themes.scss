@@ -16,8 +16,8 @@ $table-secondary-background: "table-secondary-background";
 /* Customize colors here! */
 $themes: (
     $light-theme: (
-        background: rgb(199, 21, 133), /* pink */
-        text: rgb(0, 100, 0), /* green */
+        background: rgb(255, 255, 255), /* pink */
+        text: rgb(199, 21, 133), /* pink */
         link: rgb(3, 102, 214), /* deep blue */
         horizontal-line: rgb(0, 100, 0), /* dark green */
         code-block-background: rgb(246, 248, 250), /* light gray */
@@ -30,7 +30,7 @@ $themes: (
     ),
     $dark-theme: (
         background: rgb(26, 26, 26), /* very dark gray */
-        text: rgb(255, 255, 255), /* white */
+        text: rgb(199, 21, 133), /* pink */
         link: rgb(204, 230, 255), /* very light blue */
         horizontal-line: rgb(102, 102, 102), /* medium dark gray */
         code-block-background: rgb(38, 38, 38), /* dark gray */
