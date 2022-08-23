@@ -53,6 +53,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Buy blue boba](https://RxMobile-Dummy.github.io/MyHelpCenter/Sample-Boba/BuyBlueBoba) (boba) ([edit](https://github.com/RxMobile-Dummy/MyHelpCenter/edit/DataSource/Sample-Boba/BuyBlueBoba.md))
 - [Buy cream boba](https://RxMobile-Dummy.github.io/MyHelpCenter/Sample-Boba/BuyCreamBoba) (boba) ([edit](https://github.com/RxMobile-Dummy/MyHelpCenter/edit/DataSource/Sample-Boba/BuyCreamBoba.md))
 - [Buy orange boba](https://RxMobile-Dummy.github.io/MyHelpCenter/Sample-Boba/BuyOrangeBoba) (boba) ([edit](https://github.com/RxMobile-Dummy/MyHelpCenter/edit/DataSource/Sample-Boba/BuyOrangeBoba.md))
+- [Green Tea](https://RxMobile-Dummy.github.io/MyHelpCenter/TeaFolder/GreenTea) (tea) ([edit](https://github.com/RxMobile-Dummy/MyHelpCenter/edit/DataSource/TeaFolder/GreenTea.md))
 - [How to cook pizza](https://RxMobile-Dummy.github.io/MyHelpCenter/Sample-FastFood/HowToCookPizza) (fastFood) ([edit](https://github.com/RxMobile-Dummy/MyHelpCenter/edit/DataSource/Sample-FastFood/HowToCookPizza.md))
 - [How to eat burritos](https://RxMobile-Dummy.github.io/MyHelpCenter/Sample-FastFood/HowToEatBurritos) (fastFood) ([edit](https://github.com/RxMobile-Dummy/MyHelpCenter/edit/DataSource/Sample-FastFood/HowToEatBurritos.md))
 - [How to eat grilled cheese](https://RxMobile-Dummy.github.io/MyHelpCenter/Sample-FastFood/HowToEatGrilledCheese) (fastFood) ([edit](https://github.com/RxMobile-Dummy/MyHelpCenter/edit/DataSource/Sample-FastFood/HowToEatGrilledCheese.md))

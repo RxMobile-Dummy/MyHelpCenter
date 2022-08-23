@@ -35,6 +35,13 @@
         ]
     },
     {
+        "title": "Green Tea",
+        "url": "https://RxMobile-Dummy.github.io/MyHelpCenter/TeaFolder/GreenTea",
+        "tags": [
+            "tea"
+        ]
+    },
+    {
         "title": "Black Tea",
         "url": "https://RxMobile-Dummy.github.io/MyHelpCenter/TeaFolder/HotTea",
         "tags": [
