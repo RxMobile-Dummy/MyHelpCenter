@@ -7,6 +7,13 @@
         ]
     },
     {
+        "title": "Black Tea",
+        "url": "https://RxMobile-Dummy.github.io/MyHelpCenter/TeaFolder/BlackTea",
+        "tags": [
+            "tea"
+        ]
+    },
+    {
         "title": "Blueberry smoothie",
         "url": "https://RxMobile-Dummy.github.io/MyHelpCenter/Sample-Smoothies/Blueberry",
         "tags": [
@@ -37,13 +44,6 @@
     {
         "title": "Green Tea",
         "url": "https://RxMobile-Dummy.github.io/MyHelpCenter/TeaFolder/GreenTea",
-        "tags": [
-            "tea"
-        ]
-    },
-    {
-        "title": "Black Tea",
-        "url": "https://RxMobile-Dummy.github.io/MyHelpCenter/TeaFolder/HotTea",
         "tags": [
             "tea"
         ]

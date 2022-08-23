@@ -48,7 +48,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 ## Table of Contents
 - [404 Page](https://RxMobile-Dummy.github.io/MyHelpCenter/404) (SupportDocs Integrated File) ([edit](https://github.com/RxMobile-Dummy/MyHelpCenter/edit/DataSource/MyHelpCenter/404.md))
 - [Apple smoothie](https://RxMobile-Dummy.github.io/MyHelpCenter/Sample-Smoothies/Apple) (smoothies) ([edit](https://github.com/RxMobile-Dummy/MyHelpCenter/edit/DataSource/Sample-Smoothies/Apple.md))
-- [Black Tea](https://RxMobile-Dummy.github.io/MyHelpCenter/TeaFolder/HotTea) (tea) ([edit](https://github.com/RxMobile-Dummy/MyHelpCenter/edit/DataSource/TeaFolder/HotTea.md))
+- [Black Tea](https://RxMobile-Dummy.github.io/MyHelpCenter/TeaFolder/BlackTea) (tea) ([edit](https://github.com/RxMobile-Dummy/MyHelpCenter/edit/DataSource/TeaFolder/BlackTea.md))
 - [Blueberry smoothie](https://RxMobile-Dummy.github.io/MyHelpCenter/Sample-Smoothies/Blueberry) (smoothies) ([edit](https://github.com/RxMobile-Dummy/MyHelpCenter/edit/DataSource/Sample-Smoothies/Blueberry.md))
 - [Buy blue boba](https://RxMobile-Dummy.github.io/MyHelpCenter/Sample-Boba/BuyBlueBoba) (boba) ([edit](https://github.com/RxMobile-Dummy/MyHelpCenter/edit/DataSource/Sample-Boba/BuyBlueBoba.md))
 - [Buy cream boba](https://RxMobile-Dummy.github.io/MyHelpCenter/Sample-Boba/BuyCreamBoba) (boba) ([edit](https://github.com/RxMobile-Dummy/MyHelpCenter/edit/DataSource/Sample-Boba/BuyCreamBoba.md))
