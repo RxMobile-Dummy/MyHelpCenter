@@ -16,7 +16,6 @@ which helps explain why it has the most delicate flavor profile of all the “tr
 - Darjeeling White tea, which is grown in India and is usually less expensive than white teas grown in Yunnan.
 ![whiteTea](https://user-images.githubusercontent.com/88186302/186086786-4009735e-8177-488a-a7ab-4e6fc761ba28.jpeg)
 - Gong Mei (aka Tribute Eyebrow), which is derived from more mature leaves and has a richer, earthier flavor than most other styles of white tea.
-- Shou Mai (aka Long Life Eyebrow), which also is derived from more mature leaves and undergoes a longer oxidation process than other types of white tea.
 
 # Benefits of White Tea
 Because it’s minimally processed, white tea is thought to have especially high levels of good-for-you catechins. 
