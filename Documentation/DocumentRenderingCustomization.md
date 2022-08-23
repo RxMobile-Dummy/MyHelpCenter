@@ -15,10 +15,10 @@ All colors for rendering are found in your **DataSource** branch's [`_sass/_colo
 /* Customize colors here! */
 $themes: (
     $light-theme: (
-        background: rgb(255, 255, 255), /* white */
-        text: rgb(36, 41, 46), /* very dark gray */
+        background: rgb(0, 0, 139), /* very dark blue */
+        text: rgb(255, 255, 255), /* white */
         link: rgb(3, 102, 214), /* deep blue */
-        horizontal-line: rgb(225, 228, 232), /* medium gray */
+        horizontal-line: rgb(0, 100, 0), /* dark green */
         code-block-background: rgb(246, 248, 250), /* light gray */
         inline-code-background: rgba(27, 31, 35, 0.05), /* very dark gray but with alpha, results in light gray */
         blockquote-text: rgb(106, 115, 125), /* dark gray */
